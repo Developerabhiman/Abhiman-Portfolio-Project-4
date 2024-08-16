@@ -1,3 +1,25 @@
+## 🚀 About Me
+I'm a full stack developer and a fresher Data Analyst looking for Successfull Career in the Field of technology.I am always eager to learn new things which helps to enhance my logic building skills and Adaptability to a new Technical Ecosytem. I am looking forward to contribute to growth of your organisation.
+
+## 🔗 Links
+
+# Full Stack Developer Portfolio
+[![FulL Stack Developer portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abhimanpratapsingh.netlify.app/)
+
+# Data Anayst Portfolio
+[![Data Analyst portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abhiman-the-analyst.netlify.app/)
+
+# Linkedin
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiman-pratap-singh-218b27222/)
+
+## Badges
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
 # Automate API Extraction and Data Appending
 
 This project is designed to automate the extraction and analysis of cryptocurrency data using the CoinMarketCap API. By leveraging Python libraries such as `requests` and `pandas`, the project not only retrieves data but also processes and prepares it for further analysis or storage, enabling efficient data-driven decision-making.
