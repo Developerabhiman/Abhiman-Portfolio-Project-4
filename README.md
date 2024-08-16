@@ -41,16 +41,16 @@ This project can be showcased as part of a data science or software engineering 
 
 ## Screenshots
 
-You can include screenshots of the Jupyter notebook or visualizations that were created using the extracted data. Here’s how to do it:
+You can include screenshots of the Jupyter notebook. Here’s how to do it:
 
-1. **API Data Extraction**:
-   ![API Data Extraction](path/to/screenshot1.png)
+![Screenshot Capture - 2024-08-15 - 21-44-15](https://github.com/user-attachments/assets/ca17f552-a705-49ec-84ee-b2d7a1b8d721)
 
-2. **DataFrame Preview**:
-   ![DataFrame Preview](path/to/screenshot2.png)
+![Screenshot Capture - 2024-08-15 - 21-44-38](https://github.com/user-attachments/assets/88fe486e-fac7-4848-9b30-4aaee8ec9094)
 
-3. **Visualization**:
-   ![Visualization](path/to/screenshot3.png)
+![Screenshot Capture - 2024-08-15 - 21-44-55](https://github.com/user-attachments/assets/78499fe3-e50f-455c-ac99-f2fb8c8a6997)
+
+![Screenshot Capture - 2024-08-15 - 21-45-14](https://github.com/user-attachments/assets/d314b317-6112-4810-87ef-47c26f13f2bf)
+
 
 ## Installation
 
@@ -182,6 +182,7 @@ Ensure you have the following software installed:
       -  Real-Time Monitoring: Set up a scheduled job to run the API extraction at regular intervals, storing the data for real-time monitoring or alerts.
   
     **Code Snippets**
+   
      ```python  
       # Fetching historical data for a specific cryptocurrency
         def fetch_historical_data(crypto_id, start_date, end_date):
